@@ -1,6 +1,7 @@
 import os
 import psutil
 
+print("I\'m a program to fight with Evil.")
 print("I\'ll help you... soon...")
 
 #PROCNAME = "python.exe"
